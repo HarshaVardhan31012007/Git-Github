@@ -1,2 +1,2 @@
 # Git-Github
-Demo class of usign it
+Demo class of using it.
